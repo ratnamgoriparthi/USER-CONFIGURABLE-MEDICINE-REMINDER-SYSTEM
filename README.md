@@ -224,6 +224,7 @@ ________________________________________
 •	Continuous Monitoring 
 ________________________________________
 📸 Project Gallery
+
 Project Screenshot | Block Diagram | Circuit Diagram | LCD Display | Hardware Prototype
 ________________________________________
 ⚙️ Working Principle
